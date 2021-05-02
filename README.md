@@ -1,4 +1,4 @@
-# scripy爬虫爬取单词
+# scripy爬虫爬取单词(python 3.7)
 (爱词吧/word.iciba.com)
 
 # 首先创建一个有关数据库操作的py
